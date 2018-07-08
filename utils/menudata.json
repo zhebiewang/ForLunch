@@ -1,0 +1,10 @@
+[
+  {
+    "restaurant":"川菜",
+    "menulist":[
+      {"name": "宫保鸡丁","price": 12},
+      {"name": "土豆丝","price": 10}
+    ]
+    
+  }
+]
